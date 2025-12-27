@@ -2,25 +2,6 @@
 
 This repository contains a complete machine learning pipeline for predicting passenger survival on the Titanic. The project is based on the Kaggle competition **Titanic: Machine Learning from Disaster**.
 
----
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Feature Engineering](#feature-engineering)
-- [Preprocessing Pipeline](#preprocessing-pipeline)
-- [Model](#model)
-- [Training and Prediction](#training-and-prediction)
-- [Submission](#submission)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Notes](#notes)
-- [License](#license)
-
----
 
 ## Project Overview
 
