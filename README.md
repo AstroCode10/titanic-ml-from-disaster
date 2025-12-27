@@ -18,7 +18,6 @@ The workflow includes:
 
 ## Project Structure
 
-```text
 .
 ├── train.csv          # Training dataset (from Kaggle)
 ├── test.csv           # Test dataset (from Kaggle)
