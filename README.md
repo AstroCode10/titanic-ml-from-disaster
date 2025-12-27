@@ -15,7 +15,6 @@ The workflow includes:
 - Generating a submission file compatible with Kaggle
 
 ---
-
 ## Project Structure
 
 .
@@ -24,7 +23,7 @@ The workflow includes:
 ├── submission.csv     # Generated predictions for Kaggle submission
 ├── titanic_model.py   # Main script containing the pipeline
 └── README.md          # Project documentation
-
+---
 
 **File descriptions:**
 
