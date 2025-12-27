@@ -194,7 +194,7 @@ Tuned parameters include:
 
 Predictions are saved in a Kaggle-compatible CSV file with the following format:
 
-```csv
+
 PassengerId,Survived
 892,0
 893,1
