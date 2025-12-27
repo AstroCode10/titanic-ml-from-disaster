@@ -17,13 +17,11 @@ The workflow includes:
 ---
 ## Project Structure
 
-.
-├── train.csv          # Training dataset (from Kaggle)
-├── test.csv           # Test dataset (from Kaggle)
-├── submission.csv     # Generated predictions for Kaggle submission
-├── titanic_model.py   # Main script containing the pipeline
-└── README.md          # Project documentation
----
+train.csv          # Training dataset (from Kaggle)
+test.csv           # Test dataset (from Kaggle)
+submission.csv     # Generated predictions for Kaggle submission
+titanic_model.py   # Main script containing the pipeline
+README.md          # Project documentation
 
 **File descriptions:**
 
